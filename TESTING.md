@@ -1,7 +1,7 @@
-# v1.1.0 Testing
+# v1.2.0 tests
 
-1. PC 打开“相依时刻”，确认四种显示名均为新命名。
-2. 手机浏览器地址栏展开/收起后打开面板，面板必须位于当前可见屏幕内，不可整体上漂。
-3. 手机端顶部关闭按钮始终可点击；点击遮罩空白处也应关闭。
-4. 触发 visualViewport resize/scroll 后，已打开面板仍贴合当前可见区域。
-5. 四种情境结算值、抑制时间、最近记录、余温与 Explore 联动保持原行为。
+1. Mobile panel opens centered in the actual visible viewport.
+2. Close button stays visible; backdrop tap closes.
+3. Four relationship choices render as a compact 2x2 grid.
+4. Stable window, privacy, afterglow, history remain readable.
+5. All four settlement buttons keep the original logic and MVU updates.

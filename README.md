@@ -1,8 +1,3 @@
-# Muchi Symbiosis Engine v1.1.0
+# Muchi Symbiosis Engine v1.2.0
 
-暮迟之昼的相依/状态稳定模块。底层 API 与 `stat_data.共生系统` 保持兼容，玩家可见文案已重命名为更自然的关系语言。
-
-- 四种相依情境：安稳相依、片刻相拥、临界安抚、主动亲昵。
-- 手机端使用 visualViewport 定位，面板固定在当前可见屏幕内，关闭按钮始终可达。
-- 点击遮罩空白处也可关闭。
-- 原抑制、理智、躁变、余韵、Explore/Map API 机制不变。
+UI/viewport release. Upload and tag `v1.2.0`. Player labels remain 安稳相依 / 片刻相拥 / 临界安抚 / 主动亲昵; internal context keys are unchanged for save compatibility.

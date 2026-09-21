@@ -1,11 +1,6 @@
-# Changelog
+# v1.2.0
 
-## v1.1.0
-- 玩家可见命名整体重做：安稳相依 / 片刻相拥 / 临界安抚 / 主动亲昵。
-- UI 从“共生评估”改为“相依时刻”，减少医疗/系统味。
-- 手机端改用 visualViewport 实时定位，修复弹窗偏到屏幕上半部的问题。
-- 手机端重构为可见区底部卡片式面板，顶部关闭按钮固定可达；点击遮罩亦可关闭。
-- 保持原 API、MVU `共生系统` 与结算字段兼容。
-
-## v1.0.1
-- 修复共生行为耗时未从旧抑制窗口扣除的问题。
+- Complete visual refresh for the player-facing relationship panel.
+- Mobile panel now tracks the real visual viewport and stays centered/reachable.
+- 2x2 context card layout on mobile; compact summary/afterglow design.
+- No settlement values, context IDs or MVU schema changed.
