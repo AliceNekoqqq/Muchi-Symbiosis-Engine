@@ -1,7 +1,7 @@
-# v1.2.0 tests
+# v1.2.2 测试
 
-1. Mobile panel opens centered in the actual visible viewport.
-2. Close button stays visible; backdrop tap closes.
-3. Four relationship choices render as a compact 2x2 grid.
-4. Stable window, privacy, afterglow, history remain readable.
-5. All four settlement buttons keep the original logic and MVU updates.
+1. Android 360/390/412/430 CSS px 打开相依系统。
+2. 顶部关闭按钮始终可见。
+3. 主内容区可上下滑动至最近相依记录末尾。
+4. 2×2 情境卡不得超出右边界。
+5. 地址栏伸缩、横竖屏变化后仍保持在可见区域。

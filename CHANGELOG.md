@@ -1,6 +1,6 @@
-# v1.2.0
+# Changelog
 
-- Complete visual refresh for the player-facing relationship panel.
-- Mobile panel now tracks the real visual viewport and stays centered/reachable.
-- 2x2 context card layout on mobile; compact summary/afterglow design.
-- No settlement values, context IDs or MVU schema changed.
+## 1.2.2
+- 强化手机端 visualViewport 定位与内部纵向滚动。
+- 修复部分 Android 环境下情境卡片横向溢出。
+- 不改变共生/相依结算逻辑。
